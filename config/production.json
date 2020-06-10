@@ -1,0 +1,11 @@
+{
+  "db": {
+    "connection": {
+      "host": "",
+      "user": "",
+      "password": "",
+      "database": ""
+    },
+    "pool": { "min": 0, "max": 100 }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "db": {
+    "connection": {
+      "host": "localhost",
+      "user": "root",
+      "password": "12345678",
+      "database": "graphql"
+    },
+    "pool": { "min": 0, "max": 100 }
+  }
+}

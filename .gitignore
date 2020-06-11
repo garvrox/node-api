@@ -3,7 +3,7 @@
 
 config/application.yml
 node_modules
-src/config/default.json
+config/default.json
 
 coverage
 package-lock.json

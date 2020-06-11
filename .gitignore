@@ -3,10 +3,11 @@
 
 config/application.yml
 node_modules
-src/config/appConfig.js
+src/config/default.json
 
 coverage
 package-lock.json
+yarn.lock
 .idea/
 dist/
 .DS_Store

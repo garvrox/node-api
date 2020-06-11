@@ -10,9 +10,18 @@ Node version should be greater than 12.16.0
 ### Steps
 
 1. Clone this repository by using: https://github.com/garvrox/node-api.git
-2. After clonning run npm install
-3. Your application will runs on http://localhost:4000/
-4. Your Apollo GraphQL client will runs on http://localhost:4000/graphql
+2. After cloning 
+```diff
+   run npm install
+```
+3. Change /src/config/default.sample.json to /src/config/default.json
+4. Enter you MySql connection credentials
+5. Start Application 
+```diff
+   npm start or yarn start
+```
+6. Your application will runs on http://localhost:4000/
+7. Your Apollo GraphQL client will runs on http://localhost:4000/graphql
 
 ## Tech Stack
 
